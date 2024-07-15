@@ -1,0 +1,17 @@
+# IDEs and editors
+.idea/
+
+# Logs
+Logs/
+
+# Reports & Screenshots
+Reports/
+Screenshots/
+assets/
+
+# OS
+.DS_Store
+
+# python cache
+.pytest_cache
+venv
